@@ -42,18 +42,23 @@
     position:fixed;
     vertical-align: middle;
     background-color:black;
-    opacity:0.2;
+    opacity:0;
     top:0;
     left:0;
     height:100%;
     border:none;
+    padding-top:20px;
     -webkit-transition: width 1s, color 1s, opacity 1.5s; /* Safari */
-    transition: width 1s, color 1s, opacity 1.5s;
-  }
+    transition: width 1s, color 1s, opacity 1s;
+}
+.aside ul{
+  line-height: 50px;
+}
   .aside:hover{
     width:20%;
     /* min-width:250px; */
     opacity:0.9;
+    line-height: 400px;
     color:white;
   }
 </style>
@@ -79,7 +84,7 @@
     </div>
   </div>
   <div class="lineArea aside">
-      <h2 style="text-align:center">Aside Contents
+      <h2 style="text-align:center">LHS PROJECT
         <ul>
           <li>side menu 1 </li>
           <li>side menu 2 </li>
