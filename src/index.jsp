@@ -75,6 +75,7 @@
       </div>
     <div class="lineArea footer">
       <h2 class="text-primary" style="text-align:center;">footer Area</h2>
+        Creative by LHS
     </div>
   </div>
   <div class="lineArea aside">
