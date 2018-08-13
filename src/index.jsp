@@ -23,7 +23,8 @@
 
   .headerLine {
     height: 5%;
-
+    background-color:black;
+    opacity:0.8;
   }
 
   .ContextLine {
