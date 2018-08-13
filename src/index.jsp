@@ -23,6 +23,7 @@
 
   .headerLine {
     height: 5%;
+
   }
 
   .ContextLine {
@@ -60,6 +61,12 @@
   <div class="wrapper">
     <div class="lineArea headerLine">
       <h2 style="text-align:center">Top Banner</h2>
+      <ul>
+        <li>HeaderMenu 1</li>
+        <li>HeaderMenu 2</li>
+        <li>HeaderMenu 3</li>
+        <li>HeaderMenu 4</li>
+      </ul>
     </div>
       <div class="lineArea ContextLine">
         <h2 style="text-align:center">Contents
