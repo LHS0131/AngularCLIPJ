@@ -26,9 +26,11 @@
     background-color:black;
     opacity:0.8;
     text-align:justify;
+    color:white;
+    padding:0 5%;
   }
   .headerUL{
-    right:0;
+    text-align: justify;
     list-style:none;
     margin:0;
     padding:0;
@@ -37,7 +39,13 @@
     margin : 0 0 0 0;
     padding: 0 0 0 0;
     border : 0;
-    float:left;
+    display:inline-block; 
+    width:20%;
+  }
+  .headerUL:after{
+    content:'';
+    display: inline-block;
+    width:100%;
   }
   .ContextLine {
     vertical-align: middle;
