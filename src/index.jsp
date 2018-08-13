@@ -25,8 +25,20 @@
     height: 5%;
     background-color:black;
     opacity:0.8;
+    text-align:justify;
   }
-
+  .headerUL{
+    right:0;
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+  .headerUL li{
+    margin : 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float:left;
+  }
   .ContextLine {
     vertical-align: middle;
     width:100%;
@@ -51,8 +63,9 @@
     -webkit-transition: width 1s, color 1s, opacity 1.5s; /* Safari */
     transition: width 1s, color 1s, opacity 1s;
 }
-.aside ul{
-  line-height: 50px;
+.asideUL{
+  line-height: 60px;
+
 }
   .aside:hover{
     width:20%;
@@ -66,8 +79,8 @@
 <body>
   <div class="wrapper">
     <div class="lineArea headerLine">
-      <h2 style="text-align:center">Top Banner</h2>
-      <ul>
+      <h2>Top Banner</h2>
+      <ul class="headerUL">
         <li>HeaderMenu 1</li>
         <li>HeaderMenu 2</li>
         <li>HeaderMenu 3</li>
@@ -85,7 +98,7 @@
   </div>
   <div class="lineArea aside">
       <h2 style="text-align:center">LHS PROJECT
-        <ul>
+        <ul class="asideUL">
           <li>side menu 1 </li>
           <li>side menu 2 </li>
           <li>side menu 3 </li>
