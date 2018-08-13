@@ -27,13 +27,12 @@
     opacity:0.8;
     text-align:justify;
     color:white;
-    padding:0 5%;
+    padding:0 5% 50px 5%;
   }
   .headerUL{
     text-align: justify;
     list-style:none;
     margin:0;
-    padding:0;
   }
   .headerUL li{
     margin : 0 0 0 0;
@@ -87,21 +86,23 @@
 <body>
   <div class="wrapper">
     <div class="lineArea headerLine">
-      <h2>Top Banner</h2>
+      <h1>Top Banner</h1>
+      <h4>
       <ul class="headerUL">
         <li>HeaderMenu 1</li>
         <li>HeaderMenu 2</li>
         <li>HeaderMenu 3</li>
         <li>HeaderMenu 4</li>
       </ul>
+    </h4>
     </div>
       <div class="lineArea ContextLine">
         <h2 style="text-align:center">Contents
         </h2>
       </div>
     <div class="lineArea footer">
-      <h2 class="text-primary" style="text-align:center;">footer Area</h2>
-        Creative by LHS
+      <h2 class="text-primary" style="text-align:center;">Creative by LHS</h2>
+        
     </div>
   </div>
   <div class="lineArea aside">
