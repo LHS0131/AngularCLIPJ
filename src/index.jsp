@@ -89,9 +89,9 @@
       <h1>Top Banner</h1>
       <h4>
       <ul class="headerUL">
-        <li>HeaderMenu 1</li>
-        <li>HeaderMenu 2</li>
-        <li>HeaderMenu 3</li>
+        <li>Profile</li>
+        <li>Projects</li>
+        <li></li>
         <li>HeaderMenu 4</li>
       </ul>
     </h4>
