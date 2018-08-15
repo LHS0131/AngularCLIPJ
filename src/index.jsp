@@ -91,8 +91,8 @@
       <ul class="headerUL">
         <li>Profile</li>
         <li>Projects</li>
-        <li></li>
-        <li>HeaderMenu 4</li>
+        <li>CoreTech</li>
+        <li>history</li>
       </ul>
     </h4>
     </div>
