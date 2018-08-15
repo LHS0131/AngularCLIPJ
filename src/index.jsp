@@ -108,10 +108,10 @@
   <div class="lineArea aside">
       <h2 style="text-align:center">LHS PROJECT
         <ul class="asideUL">
-          <li>side menu 1 </li>
-          <li>side menu 2 </li>
-          <li>side menu 3 </li>
-          <li>side menu 4 </li>
+          <li>profile </li>
+          <li>projects</li>
+          <li>CoreTech</li>
+          <li>history</li>
         </ul>
       </h2>
     </div>
