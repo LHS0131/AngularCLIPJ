@@ -91,7 +91,12 @@
       <h4>
       <ul class="headerUL">
         <li>Profile</li>
-        <li>Projects</li>
+        <li>
+          Projects
+          <ul>
+            <li>project 1</li>
+          </ul>
+        </li>
         <li>CoreTech</li>
         <li>history</li>
       </ul>
