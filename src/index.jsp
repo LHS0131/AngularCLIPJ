@@ -27,6 +27,7 @@
     opacity:0.8;
     text-align:justify;
     color:white;
+    margin-top:50px;
     padding:0 5% 50px 5%;
   }
   .headerUL{
