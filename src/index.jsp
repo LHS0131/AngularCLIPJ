@@ -91,7 +91,7 @@
       <h4>
       <ul class="headerUL">
         <a href="#"><li>Profile</li></a>
-        <a><li>
+        <a href="#"><li>
           Projects
           <ul style="display: none;">
             <li>project 1</li>
@@ -101,7 +101,7 @@
           </ul>
         </li>
       </a>
-        <a><li>CoreTech</li></a>
+        <a href="#"><li>CoreTech</li></a>
         <a><li>history</li></a>
       </ul>
     </h4>
