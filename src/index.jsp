@@ -90,7 +90,7 @@
       <h1>Top Banner</h1>
       <h4>
       <ul class="headerUL">
-        <a><li>Profile</li></a>
+        <a href="#"><li>Profile</li></a>
         <a><li>
           Projects
           <ul style="display: none;">
