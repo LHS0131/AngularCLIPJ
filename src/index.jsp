@@ -90,10 +90,10 @@
       <h1>Top Banner</h1>
       <h4>
       <ul class="headerUL">
-        <li>Profile</li>
+        <a><li>Profile</li></a>
         <li>
           Projects
-          <ul>
+          <ul style="display: none;">
             <li>project 1</li>
             <li>project 2</li>
             <li>project 3</li>
